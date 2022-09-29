@@ -42,6 +42,5 @@ int main()
         out_file << (rows == 0 ? "" : "\n");
     }
     out_file.close();
-
 }
 
